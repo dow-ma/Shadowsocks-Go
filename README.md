@@ -25,7 +25,7 @@
 在终端输入以下命令：
 
 ```bash
-wget -N --no-check-certificate "https://your-github-url/ss-go.sh" && chmod +x ss-go.sh && ./ss-go.sh
+wget -N --no-check-certificate "https://github.com/dow-ma/Shadowsocks-Go/releases/download/1.0.0/install.sh" && chmod +x install.sh && ./install.sh
 ```
 
 ### 2. 脚本菜单说明
