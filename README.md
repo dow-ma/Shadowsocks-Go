@@ -65,7 +65,3 @@ wget -N --no-check-certificate "https://your-github-url/ss-go.sh" && chmod +x ss
 
 * Shadowsocks-Go 核心项目：[shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2)
 * 原始脚本思路：Toyo
-
----
-
-**你想让我帮你直接生成一个 `LICENSE` 文件或者具体的 `init` 服务脚本说明吗？**
